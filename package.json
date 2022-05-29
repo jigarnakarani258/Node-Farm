@@ -1,0 +1,17 @@
+{
+  "name": "nodeproject1",
+  "version": "1.0.0",
+  "description": "Learning node project1",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jigar Nakarani",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.25.0",
+    "nodemon": "^2.0.15",
+    "slugify": "^1.6.4"
+  }
+}
